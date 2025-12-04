@@ -27,4 +27,5 @@ Example:
 !python main.py --prompt "A kite flying in the wind" --cogvideo
 
 Author
+
 Uthara Krishna
